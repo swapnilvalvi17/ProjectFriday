@@ -6,6 +6,8 @@ public class Entries {
 		System.out.println("Master branch is created");
 		
 		System.out.println("sub branch update 1");
+		
+		System.out.print(true);
 	}
 
 }
